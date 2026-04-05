@@ -25,5 +25,5 @@ and growth drivers across three stores from 2016 to 2017.
 ## Files
 | File | Description |
 |------|-------------|
-| [bike-store-analysis.html](./bike-store-analysis.html) | Clean report — findings and visualisations |
-| [bike-store-analysis.ipynb](./bike-store-analysis.ipynb) | Full notebook — all SQL and Python code |
+| [View Notebook](https://nbviewer.org/github/jennyyuentk/data-analytics-portfolio/blob/main/projects/bike-store-analysis/bike-store-analysis.ipynb) | Full analysis — SQL queries, Python code and visualisations |
+| [bike-store-analysis.ipynb](./bike-store-analysis.ipynb) | Raw Jupyter notebook |
